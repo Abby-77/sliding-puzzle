@@ -1,0 +1,16 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.tile {
+  display: inline-block;
+  height: 40px;
+  width: 40px;
+  background-color: pink;
+  border: 1px solid white;
+}
+
+.zero {
+  background-color: aliceblue;
+}
